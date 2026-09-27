@@ -213,7 +213,7 @@ msgstr "Precio de Proveedor Principal"
 #. module: product_replenishment_cost
 #: model:ir.model.fields.selection,name:product_replenishment_cost.selection__product_template__replenishment_cost_type__manual
 msgid "Manual"
-msgstr ""
+msgstr "Manual"
 
 #. module: product_replenishment_cost
 #: model:ir.model.fields,field_description:product_replenishment_cost.field_product_replenishment_cost_rule__message_has_error
@@ -293,7 +293,7 @@ msgstr "Productos sin regla de reposición"
 #. module: product_replenishment_cost
 #: model:ir.model,name:product_replenishment_cost.model_purchase_order
 msgid "Purchase Order"
-msgstr ""
+msgstr "Orden de compra"
 
 #. module: product_replenishment_cost
 #: model:ir.model,name:product_replenishment_cost.model_purchase_order_line
@@ -363,7 +363,7 @@ msgstr "Tipo de costo de reposición"
 #. odoo-python
 #: code:addons/product_replenishment_cost/models/product_template.py:0
 msgid "Replenishment cost based on company: %s."
-msgstr ""
+msgstr "Costo de reposición según la compañía: %s."
 
 #. module: product_replenishment_cost
 #: model:ir.model.fields,help:product_replenishment_cost.field_product_product__replenishment_base_cost_on_currency
@@ -492,7 +492,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:product_replenishment_cost.field_product_product__warnings_cost
 #: model:ir.model.fields,field_description:product_replenishment_cost.field_product_template__warnings_cost
 msgid "Warnings Cost"
-msgstr ""
+msgstr "Advertencias de costo"
 
 #. module: product_replenishment_cost
 #: model:ir.model.fields,field_description:product_replenishment_cost.field_product_replenishment_cost_rule__website_message_ids
@@ -522,12 +522,12 @@ msgstr ""
 #. module: product_replenishment_cost
 #: model:ir.model,name:product_replenishment_cost.model_product_replenishment_cost_rule
 msgid "product.replenishment_cost.rule"
-msgstr ""
+msgstr "Regla de costo de reposición"
 
 #. module: product_replenishment_cost
 #: model:ir.model,name:product_replenishment_cost.model_product_replenishment_cost_rule_item
 msgid "product.replenishment_cost.rule.item"
-msgstr ""
+msgstr "Ítem de regla de costo de reposición"
 
 #~ msgid ""
 #~ "The argument 'company_ids' and the key 'force_company' on the context "

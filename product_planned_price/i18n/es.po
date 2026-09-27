@@ -122,7 +122,7 @@ msgstr "Última actualización el"
 #: model:ir.model.fields,field_description:product_planned_price.field_product_product__main_company_id
 #: model:ir.model.fields,field_description:product_planned_price.field_product_template__main_company_id
 msgid "Main Company"
-msgstr ""
+msgstr "Compañía principal"
 
 #. module: product_planned_price
 #: model_terms:ir.ui.view,arch_db:product_planned_price.product_template_only_form_view
@@ -201,7 +201,7 @@ msgstr "Variante de producto"
 #: model:ir.model.fields,field_description:product_planned_price.field_product_product__replenishment_cost_main_company
 #: model:ir.model.fields,field_description:product_planned_price.field_product_template__replenishment_cost_main_company
 msgid "Replenishment Cost Main Company"
-msgstr ""
+msgstr "Costo de reposición de la compañía principal"
 
 #. module: product_planned_price
 #: model:ir.model.fields,help:product_planned_price.field_product_product__other_currency_list_price
@@ -218,7 +218,7 @@ msgstr "Precio de venta"
 #. odoo-python
 #: code:addons/product_planned_price/models/product_template.py:0
 msgid "The values correspond to the replenishment cost to the company: %s."
-msgstr ""
+msgstr "Los valores corresponden al costo de reposición de la compañía: %s."
 
 #. module: product_planned_price
 #: model_terms:ir.ui.view,arch_db:product_planned_price.view_update_from_planned_price_wizard_form
@@ -252,7 +252,7 @@ msgstr "Actualizar el precio del producto del precio planificado"
 #: model:ir.model.fields,field_description:product_planned_price.field_product_product__warnings_price
 #: model:ir.model.fields,field_description:product_planned_price.field_product_template__warnings_price
 msgid "Warnings Price"
-msgstr ""
+msgstr "Advertencias de precio"
 
 #. module: product_planned_price
 #: model_terms:ir.ui.view,arch_db:product_planned_price.product_template_search_view

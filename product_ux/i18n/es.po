@@ -146,7 +146,7 @@ msgstr "Variante de producto"
 #. module: product_ux
 #: model:product.pricelist,name:product_ux.list0
 msgid "Public Pricelist"
-msgstr ""
+msgstr "Lista de precios pública"
 
 #. module: product_ux
 #: model:ir.model.fields,help:product_ux.field_product_product__sellers_product_code
